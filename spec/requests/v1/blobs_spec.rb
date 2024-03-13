@@ -1,5 +1,3 @@
-# spec/requests/v1/blobs_spec.rb
-
 require 'rails_helper'
 
 RSpec.describe 'V1::Blobs', type: :request do
